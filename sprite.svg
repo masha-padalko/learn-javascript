@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" >
+    <symbol  id="instagram">
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M8.708 28.292V14.583m27.417-3.916v15.666a9.792 9.792 0 0 1-9.792 9.792H10.667a9.792 9.792 0 0 1-9.792-9.792V10.667A9.792 9.792 0 0 1 10.667.875h15.666a9.792 9.792 0 0 1 9.792 9.792Z"/>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M16.542 28.292v-6.365m0 0v-7.344m0 7.344c0-7.344 11.75-7.344 11.75 0v6.365M8.708 8.728l.02-.022"/>
+    </symbol>
+</svg>
